@@ -3,4 +3,4 @@ import time
 
 
 time.sleep(1)
-webbrowser.open('https://imaginegamestech.github.io/ytd')
+webbrowser.open('https://lostshadowgd.github.io/Payload/index.html')
